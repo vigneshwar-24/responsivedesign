@@ -241,3 +241,4 @@ Publish the website in the given URL.
 ![output](./static/img/32.PNG)
 
 ## RESULT:
+Thus a website is designed and is hosted in the URL http://vigneshwar.student.saveetha.in:8000/. HTML code is validated.
